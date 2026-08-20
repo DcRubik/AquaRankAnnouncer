@@ -1,0 +1,7 @@
+name: AquaRankAnnouncer
+version: 1.0
+main: com.dcrubik.announcer.Main
+api-version: 1.13
+author: DcRubik
+softdepend: [AquaCore]
+description: Anuncia de forma animada cuando un usuario recibe el rango YT o Streamer.
